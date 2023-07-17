@@ -1,5 +1,8 @@
 # Sorting-Algorithms
-Java GUI animation display of sorting algorithms built with Gradle.
+Java GUI animation display
+ of sorting algorithms built with Gradle.
+ 
+<img width="594" alt="animation_screenshot" src="https://github.com/anthony-s-flath/Sorting-Algorithms/assets/123764940/660f6f6d-861a-4633-8511-7d11690ba555">
 
 # Algorithms
 Bubble sort  
